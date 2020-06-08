@@ -255,3 +255,8 @@ DOMAIN,111.206.211.130,PROXY
 DOMAIN,59.37.96.220,PROXY
 DOMAIN,211.151.50.10,PROXY
 DOMAIN,101.227.169.200,PROXY
+
+host, wx.helloshineshow.com, 国内视频
+host-keyword, online-cmcc.cn, 国内视频
+host-keyword, cmcc-cs.cn, 国内视频
+host-keyword, 10086.cn, 国内视频

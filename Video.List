@@ -256,7 +256,7 @@ DOMAIN,59.37.96.220,PROXY
 DOMAIN,211.151.50.10,PROXY
 DOMAIN,101.227.169.200,PROXY
 
-host, wx.helloshineshow.com,Proxy
-host-keyword, online-cmcc.cn,PROXY
-host-keyword, cmcc-cs.cn,PROXY
-host-keyword, 10086.cn,PROXY
+DOMAIN,wx.helloshineshow.com,Proxy
+DOMAIN-SUFFIX, online-cmcc.cn,PROXY
+DOMAIN-SUFFIX, cmcc-cs.cn,PROXY
+DOMAIN-SUFFIX, 10086.cn,PROXY

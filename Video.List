@@ -1,4 +1,5 @@
 DOMAIN,v.pps.tv,PROXY
+DOMAIN,www.acfun.cn,PROXY
 DOMAIN,dyn.ugc.pps.tv,PROXY
 DOMAIN,www.qie.tv,PROXY
 DOMAIN,cctv5plus.vtime.cntv.cloudcdn.net,PROXY
@@ -71,7 +72,6 @@ DOMAIN,api.3g.tudou.com,PROXY
 DOMAIN,pay.youku.com,PROXY
 DOMAIN,play.youku.com,PROXY
 DOMAIN,www.youku.com,PROXY
-DOMAIN,v.youku.com,PROXY
 DOMAIN,list.youku.com,PROXY
 DOMAIN,ups.youku.com,PROXY
 DOMAIN,acs.youku.com,PROXY

@@ -260,3 +260,4 @@ DOMAIN,wx.helloshineshow.com,Proxy
 DOMAIN-SUFFIX, online-cmcc.cn,PROXY
 DOMAIN-SUFFIX, cmcc-cs.cn,PROXY
 DOMAIN-SUFFIX, 10086.cn,PROXY
+DOMAIN,live.vieo.iqiyi.com,PROXY

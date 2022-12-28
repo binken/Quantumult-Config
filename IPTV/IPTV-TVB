@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://upload.112114.xyz/logo/WUXIANXINWEN.png" group-title="港台新马",无线新闻台
+http://59.149.114.27:9981/stream/channelid/441235415?profile=matroska
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/WUXIANCAIJING.png" group-title="港台新马",无线财经资讯台
+http://59.149.114.27:9981/stream/channelid/795359597?profile=matroska
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/feicui.png" group-title="港台新马",翡翠台
+http://59.149.114.27:9981/stream/channelid/1255701536?profile=matroska
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://upload.112114.xyz/logo/J2.png" group-title="港台新马",J2
+http://59.149.114.27:9981/stream/channelid/353264762?profile=matroska
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://upload.112114.xyz/logo/mingzhu.png" group-title="港台新马",明珠台
+http://59.149.114.27:9981/stream/channelid/331671822?profile=matroska
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://upload.112114.xyz/logo/viutv.png" group-title="港台新马",VIU TV
+http://59.149.114.27:9981/stream/channelid/1452492542?profile=matroska
+#EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://upload.112114.xyz/logo/viutv6.png" group-title="港台新马",VIU 6
+http://59.149.114.27:9981/stream/channelid/264320601?profile=matroska
+#EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://upload.112114.xyz/logo/RTHK.png" group-title="港台新马",港台电视31
+http://59.149.114.27:9981/stream/channelid/2055279955?profile=matroska
+#EXTINF:-1 tvg-name="RTHK TV 32" tvg-logo="https://upload.112114.xyz/logo/RTHK.png" group-title="港台新马",港台电视32
+http://59.149.114.27:9981/stream/channelid/483770779?profile=matroska
+#EXTINF:-1 tvg-name="RTHK TV 33" tvg-logo="https://upload.112114.xyz/logo/RTHK.png" group-title="港台新马",港台电视33
+http://59.149.114.27:9981/stream/channelid/905614867?profile=matroska
+#EXTINF:-1 tvg-name="RTHK TV 34" tvg-logo="https://upload.112114.xyz/logo/RTHK.png" group-title="港台新马",港台电视34
+http://59.149.114.27:9981/stream/channelid/1638410504?profile=matroska
+#EXTINF:-1 tvg-name="香港开电视" tvg-logo="https://upload.112114.xyz/logo/hk/hkopentv.png" group-title="港台新马",香港开电视
+http://59.149.114.27:9981/stream/channelid/1446871186?profile=matroska

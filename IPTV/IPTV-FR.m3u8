@@ -1,0 +1,545 @@
+#EXTM3U
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",FRANCE 3 FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160298
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",FRANCE 4 FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160299
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",FRANCE 5 FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160300
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",AB1 FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160301
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",AB3 FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160302
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",NRJ 12 FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160303
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",CANAL+ CINEMA FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160304
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",CANAL+ DECALE FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160306
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",CINE+ FAMIZ FHD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/160308
+#EXTINF:-1 group-title="Aladot" tvg-logo="http://127.0.0.1/",Euronews HD
+http://tvmate.icu:8080/Al@dot.com/eG1di2KpO7/121055
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7a49f8bb7cd847a4d63b02fd4362caa4.png",TF1 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/390
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4ff2e66230668bd0d7167bf6c0318414.png",FRANCE 2 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/402
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9fa62bd28a89f08c3ffabd94b46228e1.png",FRANCE 3 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/403
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/87ffb1a373e0bdd6171fa4b2c4cacfdf.png",FRANCE 4 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/404
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/761272bb4e226fe6fa1410e201a48305.png",FRANCE 5 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/405
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4ffdee759cbc69c8f2391f78d81d8b06.png",M6 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/406
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bdaa3a1faf2c50fc93b0b1e6b5783312.png",TEVA FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/407
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/02b27611731b9aa5da414daf5d2031a7.png",W9 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/408
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/68b6a776378decbb4a79cda89087c4ce.png",AB1 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/409
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e7620129086147c3fc5d961c90b1f805.png",AB3 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/410
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/8268458e2cb22b0680155e9f42dd6453.png",TMC FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/411
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/5f9091372112c9e76a98133ba0806352.png",C8 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/412
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bcac1ce266ae819403c6d73cabb37fba.png",CSTAR FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/413
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/98732efa4278080ec3f48ff90b463f91.png",TFX FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/414
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/fd74010abfb625ac31d49f0ad91e3428.png",6TER FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/415
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/3/3e/20200525232627%21NRJ12_HD.png",NRJ 12 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/416
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7c3b8d9712d188f3fed3231667f545b5.png",CHERIE 25 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/417
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png",RMC STORY FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/418
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/016e07339979b7ec40c39bba460c733f.png",TF1 SERIES & FILMS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/419
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/459d3a0bc4d08200c40173915c63510c.png",ACTION FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/420
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_%28logo%29.svg/766px-13e_rue_2010_%28logo%29.png",13EME RUE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/421
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/3cebf48e378c941b5183deeb1040fab2.png",SYFY FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/422
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/fdb5af270020cf0ab7aa64eab88d7463.png",SERIE CLUB FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/423
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/74f8c0c5f6fbd6457cd50cf1dbd24c98.png",ARTE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/425
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/a6fae6807d3f65114c5a8077fe7b99cf.png",PLANETE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/426
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/5bdc92a98fe21e64bda92e9b880b714e.png",PLANETE+ CI FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/427
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ec79a3d627b4a7cd79c2159f0d3be685.png",PLANETE A&E FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/428
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/01f79e0c660c9077cbe37f3440b5eb9c.png",DISCOVERY FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/429
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/cc11a3b79b5750d5bb12c97c8602e0bc.png",DISCOVERY SCIENCE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/430
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png",RMC DECOUVERTE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/431
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/8c47b3193734ae967b7de25479f373fb.png",NATIONAL GEOGRAPHIE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/432
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4752840ae2f98bc3de97575c039562d3.png",NATIONAL GEOGRAPHIE WILD FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/433
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/dffae929b14c5a8575fb97f385b085ea.png",SCIENCES ET VIE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/434
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/42e27fc41b4ccdd21ee22dda8dd4b8ba.png",TREK FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/435
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4f190903411c9e7fdb7f84ca73c40251.png",USHUAIA TV FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/436
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bdf49e74ff818d5e4ccf61ad26f7a06e.png",VOYAGE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/437
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/3d857b949eba4844a9844d4530fe52a7.png",EUROSPORT 1 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/447
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/fbc75254bdfc1521f7034acfa50fb833.png",EUROSPORT 2 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/448
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4dad25b618b11d02feb6aae320c01442.png",CANAL+ DECALE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/456
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/d0f129e9c14046318ba92127eb397c05.png",CANAL+ CINEMA FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/457
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/3c9f39dd935a5fd391c3f0c6510b7a5a.png",CANAL+ KIDS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/458
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e626e6c4300941a37e7cf8adf6aaa750.png",CANAL+ SERIE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/459
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/404c00cf975b9d0c07bcb413e659c872.png",CANAL+ SPORT FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/460
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png",CINE PREMIER FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/461
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/38f81e886c3c7c446b09d2bd82ed7474.png",CINE FRISSON FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/462
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/816b112c6105b3ebd537828a39af4818.png",CINE+ FAMIZ FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/463
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png",CINE+ EMOTION FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/464
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/8f25192373ae70f82a6d3f2f1e72def0.png",CINE+ CLASSIC FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/465
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/1064ff350d9637550eca3a59a88e72f5.png",CINE+ CLUB FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/466
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/5706a5ef21e436377a5a671fa92c0310.png",OCS MAX FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/467
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ee80cc49f837a1e71578214299b4fadc.png",OCS GEANTS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/468
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/cfd332af03aa8073aa25db1b9f6767d8.png",OCS CITY FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/469
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/800px-OCS_Choc.svg.png",OCS CHOC FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/470
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e2dea702e4808f46e98b484598cdfc01.png",NICKELODEON 4TEEN FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/477
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c6af7d0afabaeabe1ba7d6345b4d3c75.png",MANGAS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/478
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9d8d8c080161d3339d7629e740afdc9f.png",GULLI FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/479
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9ba10033cb7829c462477e0502226cca.png",POLAR+ FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/492
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/6af9296befc8c958c8d9deb2d2a71c36.png",BOING FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/497
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/dd8100da344269f2b9fc3de90b4d4d72.png",CANAL J FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/498
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c59d82825bd764d6b9d14d757fe40653.png",TOONAMI FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/499
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ea3d5387d8e081e423f4537b4f8e585a.png",TELETOON+ FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/501
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/98b89b6d8aa399fde5675662bbc34aee.png",BOOMERANG FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/502
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/1d24d4c0e7c3413d7d19b1fceeb2f8c5.png",NICKLODEON FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/503
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9fa396f57d39694165409442393c0c0e.png",NICKELODEON JUNIOR FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/504
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/87d5972295494d9f31a3c926886fe591.png",DISNEY XD FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/505
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/5630ee277a9e62d8bba6b8c708dbdb9a.png",DISNEY JUNIOR FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/506
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c7236a0c42b9e1f25c0a04c1eed3b3a9.png",DISNEY CINEMA FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/507
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/410dc6ac925be1b0fd80dad61c348b49.png",DISNEY CHANNEL FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/508
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/0a08a7c1b345158fbaf67e3672f32957.png",CARTOON NETWORK FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/509
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/eb655a9c80ae232d622196bba6148b98.png",BFM BUSINESS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1952
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/19e79b626be48271a3cab3570f11b963.png",BFM PARIS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1953
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c0bcb9a3edf6455b74333f696ccc47b6.png",BFM NEWS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1955
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ffb576a0cfa83a50a97a7baa6302ec99.png",CNEWS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1956
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/af5761c41df15c2df0cda8df84065ab4.png",I24 NEWS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1957
+#EXTINF:-1 group-title="FRANCE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9c/LCP_Logo.svg/1200px-LCP_Logo.svg.png",||FR|| LCP FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1959
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bbe69c3733787976d98351b86ea67e66.png",LCI FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1960
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bbdd2f0e9cbf73e5c826995a10b89091.png",MEZZO LIVE  FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1962
+#EXTINF:-1 group-title="FRANCE" tvg-logo="http://obsfullhd.tv:25461/images/e99202b81e05b8523fd6daae2ec714d2.png",||FR|| AUTO MOTO FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1979
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/283865cf560d918661b46c1a79c0b677.png",OL TV FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1980
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/d9ecff9026d0e470470187c10dcc7274.png",L'EQUIPE 21 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1981
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/2fb6ffa35b57bf015b3ab48c30aaa405.png",GOLF CHANNEL FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1982
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/a6057a0585099d04a210f79432e1730e.png",GOLF+ FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1983
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c08570ffcc111c982374d631f317ed20.png",INFOSPORT+ FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1985
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/88294ccf018fee31a25e763ba844798e.png",EQUIDIA LIFE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1988
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/f334c0944bf091c580500502e375812f.png",NOVELAS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1989
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7701cfecfb2a25fd41a64d0a3f5978d5.png",WARNER TV FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1991
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/fa5caf54a500bad246188a8769cb9947.png",POLAR + FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1992
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/27b7512e2ea99bac12ee40df36d3d48f.png",ALTICE STUDIO FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1993
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png",CINE+ PREMIER FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1994
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/38f81e886c3c7c446b09d2bd82ed7474.png",CINE+ FRISSON FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1995
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/f7f27842f569ace56df9b2f0edfad6c4.png",ES1 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1997
+#EXTINF:-1 group-title="FRANCE" tvg-logo="http://obsfullhd.tv:25461/images/29f2ca19b1e504fca8ab554dbe3f6d3a.png",||FR|| E! ENTERTAINMENT FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1999
+#EXTINF:-1 group-title="FRANCE" tvg-logo="http://obsfullhd.tv:25461/images/4ca5edaadd4c0bcc802e03d6c4d7e2c0.png",||FR|| MCM  FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2000
+#EXTINF:-1 group-title="FRANCE" tvg-logo="http://obsfullhd.tv:25461/images/57a1b0a60e777f468a2ac4b705dcddbd.png",||FR|| TV BREIZH  FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2001
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/408cf1d9001d85bc7082549b89cc1900.png",RTL9 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2002
+#EXTINF:-1 group-title="FRANCE" tvg-logo="http://obsfullhd.tv:25461/images/031704c32424738c8265cb1c5412a817.png",||FR|| FASHION FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2003
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/66550a7e18df0a383be347c3d649acfb.png",LA CHAINE METEO FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2004
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/dd908ece70861af10aeab5e7453c3c7a.png",VICELAND  FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2006
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7098da98cedc0f579a9c0bbc73128234.png",CRIME DISTRICT FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2009
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png",DISCOVERY INVESTIGATION FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2010
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/b5b1dcfef47cad26611aafcded66db48.png",ANIMAUX FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2011
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/edd90dff723f7310354cb2643ab0a6ca.png",CHASSE ET PECHE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2012
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/85ed15c4d405df129035c8d503ce4e6b.png",SEASONS FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2013
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/8bd4203107ac549d589828aad6164d39.png",TOUTE L'HISTOIRE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2014
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/86f02008f265b3e463c30937e635b089.png",PLANETE+ FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2015
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/87d5972295494d9f31a3c926886fe591.png",DISNEY+ FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2016
+#EXTINF:-1 group-title="FRANCE" tvg-logo="http://obsfullhd.tv:25461/images/c59d82825bd764d6b9d14d757fe40653.png",||FR|| TOONAMI FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2017
+#EXTINF:-1 group-title="FRANCE" tvg-logo="http://obsfullhd.tv:25461/images/d7f451b316864c61a46652e40cb7f81c.PNG",||FR|| CARTOON NETWORK FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2018
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/3d077c2e3a59f8447fadbaacee0ccbbc.png",NICKELODEON JR FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2019
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/35ee78147d4eca9b6b76a1a02d534ce7.png",NICKELODEON FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2020
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e47936e6b3410f510b72b3f9428cf461.png",PIWI FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2022
+#EXTINF:-1 group-title="FRANCE" tvg-logo="http://obsfullhd.tv:25461/images/dd8100da344269f2b9fc3de90b4d4d72.png",||FR|| CANAL J FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2023
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/5462011086530f847c00bb318cbedff6.png",TIJI FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2024
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Paris_premi%C3%A8re_1997_logo.svg/1280px-Paris_premi%C3%A8re_1997_logo.svg.png",PARIS PREMIERE FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2666
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png",DISCOVERY FAMILY FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2758
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4a33e7be8cfd6663c4c96d3c541843cb.png",NOLLYWOOD FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2762
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/989bbc0dc03e1bf0d588a4db97c51101.png",COMEDIE+ FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/2763
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/23bf89ddfb161b3421e73c78b16d2145.png",RMC SPORT 2 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1091
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/0d1c01fd13c353330ad9a25c1484db80.png",RMC SPORT 3 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1092
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c0ba8f5d77423a254a5f6c8e3b8c0c45.png",RMC SPORT 4 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1093
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e6d0b47b757e61f99c72576c5d86c465.png",RMC SPORT 5 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1094
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png",RMC SPORT 6 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1095
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/869ae135e38dd15dbf5fc0119c4a1a96.png",RMC SPORT 7 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1096
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c207e1231312b32d0bc3fc312da45c2e.png",BEIN SPORTS 1 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/450
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/309d037e80929c143b5e8e4478143d2f.png",BEIN SPORTS 2 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/451
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ee563d622c6e53db2bcbfb2b95d80d30.png",BEIN SPORTS 3 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/453
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/d553689764db3362d713cc53b8918b7a.png",BEIN MAX 4 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1972
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/72ae25dd3ccee6d868d5974433408dce.png",BEIN MAX 6 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1973
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e48e13207341b6bffb7fb1622282247b.png",BEIN MAX 5 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1974
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/85f977a6a7ae02f83cde0ab9aa45b0e9.png",BEIN MAX 8 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1976
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/618c14c81484316628cd6919bff20ef4.png",BEIN MAX 9 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1977
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 1 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1882
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 2 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1883
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 4 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1885
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 5 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1886
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 6 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1887
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 7 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1888
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 8 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1889
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 9 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1890
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 10 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1891
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 16 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1897
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY 18 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1899
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Canalplay.svg/langfr-150px-Canalplay.svg.png",CANAL PLAY MULTIVISION 2 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/1901
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7a49f8bb7cd847a4d63b02fd4362caa4.png",TF1 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11007
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4ff2e66230668bd0d7167bf6c0318414.png",FRANCE 2 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11008
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9fa62bd28a89f08c3ffabd94b46228e1.png",FRANCE 3 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11009
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/43da9e28386b76fac7cace34e9239038.png",CANAL+ FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11010
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/761272bb4e226fe6fa1410e201a48305.png",FRANCE 5 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11011
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/404b6aa6e5108ab1420f6bb4e16bcc12.png",M6 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11012
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/74f8c0c5f6fbd6457cd50cf1dbd24c98.png",ARTE FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11013
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/b6d67126e0f2008ce2dd99ced1de8a30.png",C8 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11014
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9f1acd505ac02db5bc54ccf67f73d623.png",W9 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11015
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/875e9d12d5ebc1703733fb6eb7485c7a.png",TMC FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11016
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/56ac3598fe365f62e4adf531eab56eae.png",TFX FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11017
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/46fe1b817e08683c39167fd1692187f9.png",NRJ 12 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11018
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e593d01e0e6f527c99ae387e127fdede.png",LCP FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11019
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/87ffb1a373e0bdd6171fa4b2c4cacfdf.png",FRANCE 4 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11020
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/83ae3ced3bc1bd233b028d07af7ca834.png",BFM TV FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11021
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ffb576a0cfa83a50a97a7baa6302ec99.png",CNEWS FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11022
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bcac1ce266ae819403c6d73cabb37fba.png",CSTAR FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11023
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9d8d8c080161d3339d7629e740afdc9f.png",GULLI FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11024
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9781c2ab1cf55b77ce652f25738b0654.png",TF1 SERIES FILMS FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11025
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/d9ecff9026d0e470470187c10dcc7274.png",L' EQUIPE 21 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11026
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ffeca83b756a33769205daa1f65a5c45.png",6TER FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11027
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png",RMC STORY FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11028
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png",RMC DECOUVERTE FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11029
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7c3b8d9712d188f3fed3231667f545b5.png",CHERIE 25 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11030
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/3d857b949eba4844a9844d4530fe52a7.png",EUROSPORT 1 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11031
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/fbc75254bdfc1521f7034acfa50fb833.png",EUROSPORT 2 FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11032
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/0adbb229a50d915353fd800669ab35ea.png",CANAL+ LIGUE 1 FHD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/36583
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/b3c47fa4981def36f000de6f25cd3d7e.png",CANAL+ SPORT FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/51157
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4dad25b618b11d02feb6aae320c01442.png",CANAL+ DECALE FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/52290
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/3c9f39dd935a5fd391c3f0c6510b7a5a.png",CANAL+ KIDS FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/52292
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png",CINE+ EMOTION FHD+
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/52294
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7a49f8bb7cd847a4d63b02fd4362caa4.png",TF1 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/8
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4ff2e66230668bd0d7167bf6c0318414.png",FRANCE 2 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/9
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9fa62bd28a89f08c3ffabd94b46228e1.png",FRANCE 3 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/10
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/87ffb1a373e0bdd6171fa4b2c4cacfdf.png",FRANCE 4 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/11
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/761272bb4e226fe6fa1410e201a48305.png",FRANCE 5 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/13
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/1d88f3c156b9aafbe3fda54419f345ed.png",FRANCE O HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/14
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4ffdee759cbc69c8f2391f78d81d8b06.png",M6 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/15
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/74f8c0c5f6fbd6457cd50cf1dbd24c98.png",ARTE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/16
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/43da9e28386b76fac7cace34e9239038.png",CANAL+ HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/17
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/d0f129e9c14046318ba92127eb397c05.png",CANAL+ CINEMA HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/18
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/b3c47fa4981def36f000de6f25cd3d7e.png",CANAL+ SPORT HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/19
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e626e6c4300941a37e7cf8adf6aaa750.png",CANAL+ SERIES HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/20
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/3c9f39dd935a5fd391c3f0c6510b7a5a.png",CANAL+ KIDS HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/21
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4dad25b618b11d02feb6aae320c01442.png",CANAL+ DECALE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/22
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7fbc3f8a90bf9af1796e14e8a013076a.png",CINE+ PREMIER HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/23
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/38f81e886c3c7c446b09d2bd82ed7474.png",CINE+ FRISSON HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/24
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/1953bd99a8f69e377452e0338d1d0fb9.png",CINE+ EMOTION HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/25
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/30778b6d97d4ecd3dbf3bae926bf6a4c.png",CINE+ FAMIZ HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/26
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/8f25192373ae70f82a6d3f2f1e72def0.png",CINE+ CLASSIC HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/27
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/5706a5ef21e436377a5a671fa92c0310.png",OCS MAX HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/28
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/cfd332af03aa8073aa25db1b9f6767d8.png",OCS CITY HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/29
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/da324993f4f00ad8ef46ae2d421ab1be.png",OCS CHOC HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/30
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ee80cc49f837a1e71578214299b4fadc.png",OCS GEANTS HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/31
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ccd7a2defb307164c28f8368c193c05b.png",ALTICE STUDIO HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/32
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c7236a0c42b9e1f25c0a04c1eed3b3a9.png",DISNEY CINEMA HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/33
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/82e740bf52fee7f23c7141181a222c06.png",TCM CINEMA HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/34
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/26a93dd69fd004ca1021ddde964754c3.png",PARAMOUNT CHANNEL HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/35
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/18872c241065951fa9f06b145db1eb3e.png",ACTION HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/36
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/9ba10033cb7829c462477e0502226cca.png",POLAR+ HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/37
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7098da98cedc0f579a9c0bbc73128234.png",CRIME DISTRICT HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/38
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/989bbc0dc03e1bf0d588a4db97c51101.png",COMEDIE+ HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/39
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4445cc3d6398c038eb9f4651aa3ba005.png",13EME RUE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/40
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/54ad341efee4737b060379574621665e.png",SYFY HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/41
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/fdb5af270020cf0ab7aa64eab88d7463.png",SERIE CLUB HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/42
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/520f08d7d2ae3fafe39be1dfabf09f2f.png",MTV HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/43
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ab7878432146095e5e5f3a2d68f91b52.png",E! ENTERTAINMENT HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/44
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bda9ed39756b918c20a55a4bddd187fd.png",GAME ONE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/45
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/6a121cbefc660caba90e43074613620d.png",J-ONE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/46
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c6af7d0afabaeabe1ba7d6345b4d3c75.png",MANGAS HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/47
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/68b6a776378decbb4a79cda89087c4ce.png",AB1 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/48
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e7620129086147c3fc5d961c90b1f805.png",AB3 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/49
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/57a1b0a60e777f468a2ac4b705dcddbd.png",TV BREIZH HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/50
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/8f33e28dac4abfec68a367fa0e71772c.png",TEVA HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/51
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/0e42ddd35bf306220f8e922d399ff792.png",PARIS PREMIERE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/52
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/76eff4be003c305e4305e3b1fae5d3ac.png",RTL 9 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/53
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/b6d67126e0f2008ce2dd99ced1de8a30.png",C8 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/54
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/02b27611731b9aa5da414daf5d2031a7.png",W9 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/55
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/700px-TMC_logo.svg.png",TMC HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/56
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/98732efa4278080ec3f48ff90b463f91.png",TFX HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/57
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/844d107eb533e85736ee12e0396a737f.png",NRJ 12 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/58
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bcac1ce266ae819403c6d73cabb37fba.png",C STAR HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/59
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/fd74010abfb625ac31d49f0ad91e3428.png",6TER HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/60
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/625897a32beb61135c431c6da534f1fe.png",RMC STORY HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/61
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/7c3b8d9712d188f3fed3231667f545b5.png",CHERIE 25 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/62
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4c46facd57ea1d4019315e3106ba1258.png",TV5 MONDE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/63
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/f3a49fdf58e2cffdf01d8dfd37ed26ea.png",PLANETE+ HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/64
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/5bdc92a98fe21e64bda92e9b880b714e.png",PLANETE+ CI HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/65
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ec79a3d627b4a7cd79c2159f0d3be685.png",PLANETE+ A&E HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/66
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/8c47b3193734ae967b7de25479f373fb.png",NATIONAL GEOGRAPHIE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/67
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4752840ae2f98bc3de97575c039562d3.png",NATIONAL GEOGRAPHIE WILD HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/68
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png",DISCOVERY CHANNEL HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/69
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/2fbdd4f55ec70f6333570f59dfa60bcf.png",DISCOVERY SCIENCE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/70
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png",DISCOVERY FAMILY HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/71
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/a281ac3e2b560404c8ca6b83f1855d5b.png",DISCOVERY INVESTIGATION HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/72
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/bdf49e74ff818d5e4ccf61ad26f7a06e.png",VOYAGE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/74
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4f190903411c9e7fdb7f84ca73c40251.png",USHUAIA TV HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/75
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/17453026e9478fc12662a1971bdc8a69.png",HISTOIRE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/76
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/353d21ee87d623b25ddf044a2442f099.png",TOUTE L'HISTOIRE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/77
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c7945c04a8d27c3d2d0a19de616242fb.png",SCIENCE ET VIE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/78
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/aee51bf936cb2541cd31525bdbdb7427.png",ANIMAUX HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/79
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/42e27fc41b4ccdd21ee22dda8dd4b8ba.png",TREK HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/80
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/b4f55b972bac563064c46bd75e08191f.png",SEASONS HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/81
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/edd90dff723f7310354cb2643ab0a6ca.png",CHASSE ET PECHE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/82
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/2bbf7fb2d2d7ba71f71229f8454c3b6b.png",RMC DECOUVERTE HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/83
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/031704c32424738c8265cb1c5412a817.png",FASHION TV HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/84
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/ffb576a0cfa83a50a97a7baa6302ec99.png",CNEWS HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/85
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c27673b138b2bce43c76a00e2d6768dc.png",BFM NEWS HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/86
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4a2ef0c54d57bec14ba0f761dbc9b86c.png",LCI HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/87
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/6c350ee5946d70a72cd960ead9ddfa42.png",EURONEWS HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/88
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/8b945bd8b9a76710faabb97db96e5dbc.png",FRANCE 24 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/89
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/e593d01e0e6f527c99ae387e127fdede.png",LCP HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/90
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/c08570ffcc111c982374d631f317ed20.png",INFOSPORT+ HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/96
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/3d857b949eba4844a9844d4530fe52a7.png",EUROSPORT 1 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/97
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/855b39eb6124ae70bcd479b1e808621f.png",EUROSPORT 2 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/98
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/4ad02b3f8ca59277d2b49d0dc865b2aa.png",EQUIDIA TV HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/99
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/613134fb44bd84a537efd5ec497ea6fd.png",GOLF CHANNEL HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/100
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/0805a3a783b9cfcf0f6441e9ff2b359f.png",FOOT+ 24/24 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/101
+#EXTINF:-1 group-title="Demo Pad1" tvg-logo="http://obsfullhd.tv:25461/images/d9ecff9026d0e470470187c10dcc7274.png",L'EQUIPE 21 HD
+http://obsfullhd.tv:25461/demopad1/UXRsXfKbBZ/102

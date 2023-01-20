@@ -1,6 +1,12 @@
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 纯享4K,http://[2409:8087:5c00:10:5::166]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
+CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
+CCTV4K,http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
+CCTV4K,http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
+CCTV4K,http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
+8KNature,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 CCTV4K,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=3
 CCTV4K,http://r.jdshipin.com/krMB5
 CCTV4K,http://lu1.cc/itv/php/cctv4k.php

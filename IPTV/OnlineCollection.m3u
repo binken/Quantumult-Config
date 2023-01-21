@@ -19,8 +19,8 @@ http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K
 http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m3u8?servicetype=3
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K
-http://r.jdshipin.com/krMB5
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K 抖音
+http://pull-hls-spe-l1.douyinliving.com/fantasy/stream-688813559861478070_spuhd/playlist.m3u8?_neptune_token=MIGVBAy0ydj8lY99LVYcCeEEc2JIIZB6-Y3XDyOr8IP_VP0h-KjfVIAcnM6uiQ1Nu4XW10I2NllNsJBEs5aFv0TBHgo6hTmmH5ugcLyMlbxPrUq1mqTzy_FEyf-X8GeGFkmzbZI2VbiYBVo4gHq-Q1tJux-eCWm6z0pPjqczPNriExftl3QEEBldoVmJFY8LdF-5CztMCek&keeptime=00015180&wsSecret=28f7a3acc4e66ad51edf9c62b7d282f0&wsTime=63cbde15
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K
 http://lu1.cc/itv/php/cctv4k.php
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K

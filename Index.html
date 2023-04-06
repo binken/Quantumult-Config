@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pop-up Example</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <h1>Welcome to my website!</h1>
+
+    <!-- The pop-up HTML markup -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title" id="myModalLabel">Subscribe to my Newsletter</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          </div>
+          <div class="modal-body">
+            <p>Thanks for visiting my website. Please sign up for our newsletter to get the latest updates.</p>
+            <form>
+              <div class="form-group">
+                <label for="email">Email address:</label>
+                <input type="email" class="form-control" id="email">
+              </div>
+              <button type="submit" class="btn btn-primary">Subscribe</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/creativelike.com/responsive-bootstrap-modal/js/bootstrap-modal.js"></script>
+  <script>
+    $(document).ready(function() {
+      $('#myModal').modal('show');
+    });
+  </script>
+  <style>
+    @media (max-width: 767px) {
+      .modal-dialog {
+        margin: 0;
+        max-width: none !important;
+      }
+    }
+  </style>
+
+</body>
+</html>
